@@ -1,6 +1,6 @@
 picom -f &
 xrandr --output DP-2 --mode 1920x1080 --rate 165 &
-feh --bg-scale /home/amc/.wallpaper/1.jpg &
+feh --bg-scale /home/amc/.wallpaper/1.png &
 slstatus &
 nm-applet &
 volumeicon &
